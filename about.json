@@ -51,10 +51,8 @@
       "bio": "毫微科技\n浙江省半导体协会"
     }
   ],
-  "sentence": {
-    "donate" : {
+  "donate": {
       "link": "https://github.com/Fluentify-IO/Fluentify",
       "text": "Contact us to donate"
-    }
   }
 }
