@@ -1,6 +1,13 @@
 {
   "contributors": [
     {
+      "name": "ChatGPT",
+      "avatar": "https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png",
+      "page": "https://chat.openai.com/",
+      "title": "It wrote the first version of the code.",
+      "desc": ""
+    },
+    {
       "name": "CocoSgt",
       "avatar": "https://avatars.githubusercontent.com/u/6043666?v=4",
       "page": "https://github.com/CocoSgt",
