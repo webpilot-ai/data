@@ -28,12 +28,18 @@
       "name": "ChiyuSONG",
       "avatar": "https://avatars.githubusercontent.com/u/108994047?v=4",
       "page": "https://github.com/ChiyuSONG",
-      "title": "NLP Engineer",
+      "bio": "NLP Engineer",
     },
     {
       "name": "Noodles-Zhuge",
       "avatar": "https://avatars.githubusercontent.com/u/129896569?v=4",
       "page": "https://github.com/Noodles-Zhuge",
+      "bio": "Web Developer",
+    },
+    {
+      "name": "Chouchou",
+      "avatar": "https://avatars.githubusercontent.com/u/4880734?v=4",
+      "page": "https://github.com/chouch0u",
       "bio": "Web Developer"
     }
   ],
