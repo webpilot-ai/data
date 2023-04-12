@@ -1,62 +1,63 @@
 {
-  "contributors": [
-    {
-      "name": "ChatGPT",
-      "avatar": "https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png",
-      "page": "https://chat.openai.com/",
-      "bio": "It wrote the first version of the code."
-    },
-    {
-      "name": "CocoSgt",
-      "avatar": "https://avatars.githubusercontent.com/u/6043666?v=4",
-      "page": "https://github.com/CocoSgt",
-      "bio": "Product Management\nEngineering"
-    },
-    {
-      "name": "iprome",
-      "avatar": "https://avatars.githubusercontent.com/u/16774401?v=4",
-      "page": "https://github.com/iprome",
-      "bio": "Engineering"
-    },
-    {
-      "name": "lty1993",
-      "avatar": "https://avatars.githubusercontent.com/u/791006?v=4",
-      "page": "https://github.com/lty1993",
-      "bio": "Engineering"
-    },
-    {
-      "name": "ChiyuSONG",
-      "avatar": "https://avatars.githubusercontent.com/u/108994047?v=4",
-      "page": "https://github.com/ChiyuSONG",
-      "bio": "NLP Engineer"
-    },
-    {
-      "name": "Noodles-Zhuge",
-      "avatar": "https://avatars.githubusercontent.com/u/129896569?v=4",
-      "page": "https://github.com/Noodles-Zhuge",
-      "bio": "Web Developer"
-    },
-    {
-      "name": "Chouchou",
-      "avatar": "https://avatars.githubusercontent.com/u/4880734?v=4",
-      "page": "https://github.com/chouch0u",
-      "bio": "Web Developer"
-    }
-  ],
-  "investors": [
-    {
-      "name": "f.chen",
-      "avatar": "https://github.com/Fluentify-IO/Fluentify/blob/dev/assets/images/avatar/fz.jpg?raw=true",
-      "page": "",
-      "bio": ""
-    },
-    {
-      "name": "崔传荣",
-      "avatar": "https://github.com/Fluentify-IO/Fluentify/blob/dev/assets/images/avatar/cui.jpg?raw=true",
-      "page": "",
-      "bio": ""
-    }
-  ],
+  "people": {
+    "contributors": [
+      {
+        "name": "ChatGPT",
+        "avatar": "https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png",
+        "page": "https://chat.openai.com/",
+        "bio": "It wrote the first version of the code."
+      },
+      {
+        "name": "CocoSgt",
+        "avatar": "https://avatars.githubusercontent.com/u/6043666?v=4",
+        "page": "https://github.com/CocoSgt",
+        "bio": "Product Management\nEngineering"
+      },
+      {
+        "name": "iprome",
+        "avatar": "https://avatars.githubusercontent.com/u/16774401?v=4",
+        "page": "https://github.com/iprome",
+        "bio": "Engineering"
+      },
+      {
+        "name": "lty1993",
+        "avatar": "https://avatars.githubusercontent.com/u/791006?v=4",
+        "page": "https://github.com/lty1993",
+        "bio": "Engineering"
+      },
+      {
+        "name": "ChiyuSONG",
+        "avatar": "https://avatars.githubusercontent.com/u/108994047?v=4",
+        "page": "https://github.com/ChiyuSONG",
+        "bio": "NLP Engineer"
+      },
+      {
+        "name": "Noodles-Zhuge",
+        "avatar": "https://avatars.githubusercontent.com/u/129896569?v=4",
+        "page": "https://github.com/Noodles-Zhuge",
+        "bio": "Web Developer"
+      },
+      {
+        "name": "Chouchou",
+        "avatar": "https://avatars.githubusercontent.com/u/4880734?v=4",
+        "page": "https://github.com/chouch0u",
+        "bio": "Web Developer"
+      }
+    ],
+    "investors": [
+      {
+        "name": "f.chen",
+        "avatar": "https://github.com//webpilot-ai/data/blob/main/avatar/fz.jpg?raw=true",
+        "page": "",
+        "bio": ""
+      },
+      {
+        "name": "崔传荣",
+        "avatar": "https://github.com//webpilot-ai/data/blob/main/avatar/cui.jpg?raw=true",
+        "bio": ""
+      }
+    ]
+  },
   "donate": {
       "link": "https://github.com/Fluentify-IO/Fluentify",
       "text": "Contact"
