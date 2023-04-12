@@ -46,13 +46,13 @@
   "investors": [
     {
       "name": "f.chen",
-      "avatar": "F",
+      "avatar": "https://github.com/Fluentify-IO/Fluentify/blob/dev/assets/images/avatar/fz.jpg?raw=true",
       "page": "",
       "bio": ""
     },
     {
       "name": "崔传荣",
-      "avatar": "崔",
+      "avatar": "https://github.com/Fluentify-IO/Fluentify/blob/dev/assets/images/avatar/cui.jpg?raw=true",
       "page": "",
       "bio": ""
     }
