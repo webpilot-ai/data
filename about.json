@@ -1,39 +1,40 @@
 {
   "contributors": [
     {
+      "name": "ChatGPT",
+      "avatar": "https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png",
+      "page": "https://chat.openai.com/",
+      "bio": "It wrote the first version of the code."
+    },
+    {
       "name": "CocoSgt",
       "avatar": "https://avatars.githubusercontent.com/u/6043666?v=4",
       "page": "https://github.com/CocoSgt",
-      "title": "Product Management\nEngineering",
-      "desc": ""
+      "bio": "Product Management\nEngineering"
     },
     {
       "name": "iprome",
       "avatar": "https://avatars.githubusercontent.com/u/16774401?v=4",
       "page": "https://github.com/iprome",
-      "title": "Engineering",
-      "desc": ""
+      "bio": "Engineering"
     },
     {
       "name": "lty1993",
       "avatar": "https://avatars.githubusercontent.com/u/791006?v=4",
       "page": "https://github.com/lty1993",
-      "title": "Engineering",
-      "desc": ""
+      "bio": "Engineering"
     },
     {
       "name": "ChiyuSONG",
       "avatar": "https://avatars.githubusercontent.com/u/108994047?v=4",
       "page": "https://github.com/ChiyuSONG",
       "title": "NLP Engineer",
-      "desc": ""
     },
     {
       "name": "Noodles-Zhuge",
       "avatar": "https://avatars.githubusercontent.com/u/129896569?v=4",
       "page": "https://github.com/Noodles-Zhuge",
-      "title": "Web Developer",
-      "desc": ""
+      "bio": "Web Developer"
     }
   ],
   "investors": [
@@ -41,15 +42,17 @@
       "name": "f.chen",
       "avatar": "F",
       "page": "",
-      "company": "个人捐赠",
-      "desc": ""
+      "bio": ""
     },
     {
       "name": "崔传荣",
       "avatar": "崔",
       "page": "",
-      "company": "毫微科技\n浙江省半导体协会",
-      "desc": ""
+      "bio": ""
     }
-  ]
+  ],
+  "donate": {
+      "link": "https://github.com/Fluentify-IO/Fluentify",
+      "text": "Contact"
+  }
 }
