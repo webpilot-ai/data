@@ -42,17 +42,17 @@
       "name": "f.chen",
       "avatar": "F",
       "page": "",
-      "bio": "个人捐赠"
+      "bio": ""
     },
     {
       "name": "崔传荣",
       "avatar": "崔",
       "page": "",
-      "bio": "毫微科技\n浙江省半导体协会"
+      "bio": ""
     }
   ],
   "donate": {
       "link": "https://github.com/Fluentify-IO/Fluentify",
-      "text": "Contact us to donate"
+      "text": "Contact"
   }
 }
