@@ -1,5 +1,4 @@
 {
-  "people": {
     "contributors": [
       {
         "name": "ChatGPT",
@@ -44,7 +43,7 @@
         "bio": "Web Developer"
       }
     ],
-    "investors": [
+    "sponsors": [
       {
         "name": "f.chen",
         "avatar": "https://github.com//webpilot-ai/data/blob/main/avatar/fz.jpg?raw=true",
@@ -56,8 +55,7 @@
         "avatar": "https://github.com//webpilot-ai/data/blob/main/avatar/cui.jpg?raw=true",
         "bio": ""
       }
-    ]
-  },
+    ],
   "donate": {
       "link": "https://github.com/Fluentify-IO/Fluentify",
       "text": "Contact"
