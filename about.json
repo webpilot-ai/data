@@ -49,12 +49,12 @@
         "bio": "UX Design"
       }
     ],
-    "contributors": [
+    "contributors-org": [
       {
-        "name": "ChatGPT",
-        "avatar": "https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png",
-        "page": "https://chat.openai.com/",
-        "bio": "Core Programmer"
+        "name": "Travellers",
+        "avatar": "https://github.com/webpilot-ai/data/blob/main/avatar/Travellers.png?raw=true",
+        "page": "",
+        "bio": "From Syndicate(WoW)"
       }
     ],
     "sponsors": [
