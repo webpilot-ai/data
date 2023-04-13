@@ -4,7 +4,7 @@
         "name": "ChatGPT",
         "avatar": "https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png",
         "page": "https://chat.openai.com/",
-        "bio": "It wrote the first version of the code."
+        "bio": "Core Programmer"
       },
       {
         "name": "CocoSgt",
@@ -47,6 +47,14 @@
         "avatar": "https://avatars.githubusercontent.com/u/37393285?v=4",
         "page": "https://www.tianmi-fang.com",
         "bio": "UX Design"
+      }
+    ],
+    "contributors": [
+      {
+        "name": "ChatGPT",
+        "avatar": "https://seeklogo.com/images/O/open-ai-logo-8B9BFEDC26-seeklogo.com.png",
+        "page": "https://chat.openai.com/",
+        "bio": "Core Programmer"
       }
     ],
     "sponsors": [
